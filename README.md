@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Acción Popular</title>
@@ -49,7 +48,7 @@ svg{width:100%;height:auto;display:block;border-radius:1.4rem;box-shadow:0 1.5re
 <!-- 1 -->
 <section class="s">
 <div class="hero">
-<h1 class="a l">Una sola persona puede presentar una acción popular</h1>
+<h1 class="a l">Creen que una sola persona puede presentar una acción popular?</h1>
 <div class="ph a" style="--i:2;--im:var(--p1)" role="img" aria-label="Persona en un río contaminado"></div>
 </div>
 </section>
